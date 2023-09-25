@@ -1,0 +1,50 @@
+#table-container
+{
+    margin-top: 50px;
+    width: 95%;
+    height: auto;
+    margin: 0px auto;
+}
+#heading
+{
+    display: flex;
+    justify-content: space-between;
+}
+#songadd
+{
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+}
+#table
+{
+    width: 100%;
+    height: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+#thead
+{
+    background-color: gray;
+    color: white;
+}
+.th
+{
+    border-left: 1px solid black;
+    background-color: gray;
+    color: white;
+}
+.td 
+{
+    text-align: center;
+    border-left: 1px solid black;
+}
+#headsongs
+{
+    margin-left: 30px;
+}

@@ -1,0 +1,102 @@
+#newsong-contain
+{
+    width: 70%;
+    height: auto;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+#hsong
+{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+#song-contain
+{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+#songname
+{
+    margin-left: 30px;
+    width: 290px; 
+    height: 30px;
+    border:1px solid #ccc;
+}
+#date-contain
+{
+    margin-left: 30px;
+    margin-top: 30px;  
+}
+#date-release
+{
+    margin-left: 21px;
+    width: 290px; 
+    height: 30px;
+    border:1px solid #ccc;
+}
+#image-contain
+{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#cover-label
+{
+    padding: 6px 12px;
+    cursor: pointer;
+    margin-left: 55px;
+    background-color: gray;
+    color: white;
+}
+#cover-image
+{  
+    display: none;
+}
+#artists-contain
+{
+    margin-left: 30px;
+    margin-top: 30px;
+    width: auto;
+}
+#dropdown-conatiner
+{
+    display: inline-block;
+    width: 300px;
+    margin-left: 67px;
+}
+#cancel-button
+{
+    background-color: transparent;
+    border: 1px solid black;
+    outline: none;
+    cursor: pointer;
+    width: 80px;
+    padding: 5px;
+}
+#submit-button
+{
+    background-color: gray;
+    border: 1px solid black;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    width: 80px;
+    margin-left: 30px;
+    padding: 5px;
+    
+}
+#buttons-contain
+{
+    margin-top: 50px;
+    margin-left: 140px;
+    margin-bottom: 40px;
+}
+#add-artist
+{
+    margin-left: 40px;
+    width: 200px;
+    padding: 6px;
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+    border-radius: 2px;
+}

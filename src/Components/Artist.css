@@ -1,0 +1,44 @@
+#artist-container
+{
+    margin-top: 50px;
+    width: 95%;
+    height: auto;
+    margin: 0px auto;
+}
+#songadd
+{
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    background-color: gray;
+    color: white;
+    margin-top: 20px
+}
+#artist-table
+{
+    width: 100%;
+    height: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+#thead
+{
+    background-color: gray;
+    color: white;
+}
+.th-artist
+{
+    border-left: 1px solid black;
+    background-color: gray;
+    color: white;
+}
+.td-artist
+{
+    text-align: center;
+    border-left: 1px solid black;
+}
+#art-heading
+{
+    margin-left: 30px;
+}

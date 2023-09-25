@@ -1,0 +1,80 @@
+#artist-form
+{
+    width: 45%;
+    height: 400px;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+#container
+{
+    display: flex;
+    justify-content:space-between;
+}
+#adr{
+    margin: 0px;
+    margin-left: 30px;
+}
+#x{
+    margin: 0px;
+    margin-right: 30px;
+    cursor: pointer;
+}
+#artname-container
+{
+    margin-top: 50px;
+}
+.margin-left
+{
+    margin-left: 50px;
+}
+#artname
+{
+    margin-left: 40px;
+    width: 220px;
+    height: 25px;
+}
+#dob
+{
+    margin-left: 34px;
+    margin-top: 20px;
+    width: 220px;
+    height: 25px;
+}
+#bio
+{
+    margin-left: 100px;
+    margin-top: 20px; 
+    width: 220px;
+    height: 70px;
+}
+#all-btns
+{
+    margin-top: 80px;
+}
+.empty
+{
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+#all-btns
+{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+}
+#can{
+background-color: aliceblue;
+width: 80px;
+padding: 5px;
+margin-right: 30px;
+border: 1px solid black;
+}
+#done
+{
+    background-color: gray;
+    color: white;
+    padding: 5px;
+    width: 80px;
+    margin-right: 50px;
+}
